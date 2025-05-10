@@ -1,0 +1,11 @@
+--- Research Output ---
+Timestamp: 2025-05-10 01:31:27
+
+Penguins are a group of aquatic flightless birds from the family Spheniscidae.
+
+
+--- Research Output ---
+Timestamp: 2025-05-10 01:37:18
+
+Penguins are flightless birds that belong to the family Spheniscidae. They are primarily found in the Southern Hemisphere, especially in Antarctica. Penguins are known for their distinctive black and white plumage, which serves as camouflage while swimming. These birds are excellent swimmers, using their wings as flippers to propel through water. Penguins primarily feed on fish, squid, and other marine life. There are 18 species of penguins, with the Emperor Penguin being the largest and the Little Blue Penguin being the smallest.
+
